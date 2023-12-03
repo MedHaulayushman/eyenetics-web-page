@@ -1,0 +1,67 @@
+.eyenetics {
+  position: absolute;
+  top: 0;
+  left: 0.5px;
+  line-height: 90%;
+  font-weight: 600;
+  display: inline-block;
+  width: 343px;
+  height: 56px;
+}
+.eyenetics-wrapper {
+  position: absolute;
+  top: 0;
+  left: 130.5px;
+  width: 266px;
+  height: 43px;
+}
+.macbookpro-with-logo {
+  position: absolute;
+  top: 17.54px;
+  left: 0;
+  width: 527px;
+  height: 88.77px;
+}
+.untitled-design-1-removebg-p-icon {
+  position: absolute;
+  top: 0;
+  left: 30px;
+  width: 101px;
+  height: 117.27px;
+  object-fit: cover;
+}
+.macbookpro-with-logo-parent {
+  position: absolute;
+  top: 46px;
+  left: 486px;
+  width: 527px;
+  height: 117.27px;
+}
+.d-model-with {
+  position: absolute;
+  top: 163px;
+  left: 546px;
+  font-size: var(--font-size-13xl);
+  letter-spacing: 2px;
+  line-height: 90%;
+  font-weight: 800;
+}
+.frame-child {
+  position: absolute;
+  top: 262px;
+  left: 155px;
+  background-color: #d9d9d9;
+  width: 1190px;
+  height: 882px;
+}
+.frame-parent {
+  position: relative;
+  background-color: #d1cfcf;
+  width: 100%;
+  height: 1405px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-45xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

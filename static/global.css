@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  line-height: 1.5; /* Set your desired line height */
+  font-family: "DM Sans", sans-serif;
+  background-color: #f0f0f0; /* Set your desired background color */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-repeat: no-repeat;
+  background-size: contain;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}

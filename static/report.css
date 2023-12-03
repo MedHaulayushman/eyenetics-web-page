@@ -1,0 +1,147 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 1388px;
+}
+
+.u-section-1 .u-line-1 {
+  position: absolute;
+  top: 234px;
+  transform-origin: left center 0px;
+}
+
+.u-section-1 .u-line-2 {
+  position: absolute;
+  top: 406px;
+  transform-origin: left center 0px;
+}
+
+.u-section-1 .u-line-3 {
+  position: absolute;
+  top: 462px;
+  transform-origin: left center 0px;
+}
+
+.u-section-1 .u-line-4 {
+  position: absolute;
+  top: 512px;
+  transform-origin: left center 0px;
+}
+
+.u-section-1 .u-line-5 {
+  position: absolute;
+  top: 406px;
+  transform-origin: left center 0px;
+  height: 3px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 228px;
+  height: 88px;
+  margin: 22px auto 0 0;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  margin: 22px auto 0 11px;
+}
+
+.u-section-1 .u-text-2 {
+  font-weight: 700;
+  font-size: 1.125rem;
+  margin: 37px 0 0 11px;
+}
+
+.u-section-1 .u-text-3 {
+  font-weight: 700;
+  font-size: 1.25rem;
+  margin: 27px 11px 0 0;
+}
+
+.u-section-1 .u-text-4 {
+  font-weight: 700;
+  font-size: 1.125rem;
+  margin: 29px 0 0;
+}
+
+.u-section-1 .u-text-5 {
+  font-weight: 700;
+  font-size: 1.25rem;
+  margin: 7px 0 0;
+}
+
+.u-section-1 .u-text-6 {
+  font-weight: 700;
+  font-size: 1.25rem;
+  margin: -512px 369px 0 646px;
+}
+
+.u-section-1 .u-line-6 {
+  margin-top: 40px;
+  margin-bottom: 0;
+  transform-origin: left center 0px;
+}
+
+.u-section-1 .u-text-7 {
+  font-weight: 700;
+  font-size: 1.25rem;
+  margin: 21px 0 0;
+}
+
+.u-section-1 .u-line-7 {
+  transform-origin: left center 0px;
+  margin-top: 22px;
+  margin-bottom: 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-image-1 {
+    height: 89px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-6 {
+    margin-top: -472px;
+    margin-left: 546px;
+    margin-right: 269px;
+  }
+
+  .u-section-1 .u-line-6 {
+    margin-top: 450px;
+  }
+
+  .u-section-1 .u-line-7 {
+    margin-bottom: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-6 {
+    margin-left: 436px;
+    margin-right: 159px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-6 {
+    margin-left: 346px;
+    margin-right: 69px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-6 {
+    margin-top: -440px;
+    margin-left: 215px;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-line-6 {
+    margin-top: 418px;
+  }
+}

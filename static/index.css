@@ -1,0 +1,1059 @@
+.desktop-1-child,
+.desktop-1-item {
+  position: absolute;
+  top: 185.19rem;
+  left: 0.38rem;
+  width: wrap;
+  height: 44.88rem;
+}
+.desktop-1-item {
+  top: 219.94rem;
+  background-color: rgba(255, 255, 255, 0.05);
+  height: 0.06rem;
+}
+.copyright-2022 {
+  position: absolute;
+  top: 433.38rem;
+  left: 8.13rem;
+  font-size: 0.88rem;
+  letter-spacing: 0.1em;
+  color: rgba(255, 255, 255, 0.4);
+}
+.desktop-1-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: linear-gradient(
+    180deg,
+    #e4efff,
+    rgba(228, 239, 255, 0.6) 92.51%,
+    rgba(228, 239, 255, 0)
+  );
+  width: 100vw;
+  height: 41.38rem;
+}
+.rectangle-icon {
+  position: absolute;
+  top: 2rem;
+  left: 0;
+  border-radius: 40px;
+  width: 14.31rem;
+  height: 29.69rem;
+}
+.services {
+  text-align: center;
+  background: linear-gradient(
+    90deg,
+    #eb12ae,
+    #aa2eaf 18.34%,
+    #792fbd 37.44%,
+    #5730c7 54.84%,
+    #3a41ba 70.21%,
+    #0b1b5a 80.07%,
+    #071d84 84.71%
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.services-offered-by-container {
+  position: center;
+  line-height: 2.75rem;
+  display: inline-block;
+  text-align: center;
+  width: 35.88rem;
+}
+.dna-sequence-classification {
+  position: relative;
+  width: 2.63rem;
+  height: 2.63rem;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.dna-sequence-classification-wrapper {
+  border-radius: 6px;
+  background-color: rgba(255, 255, 255, 0.08);
+  width: 4.38rem;
+  height: 4.38rem;
+  display: flex;
+  flex-direction: row;
+  padding: 0.63rem 0 0.63rem 0.13rem;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.frame-child {
+  align-self: stretch;
+  position: relative;
+  background-color: #c4c4c4;
+  height: 1.25rem;
+  opacity: 0;
+}
+.dr-prediction {
+  position: relative;
+  font-size: 1.5rem;
+  line-height: 2.75rem;
+  text-align: center;
+}
+.frame-item {
+  align-self: stretch;
+  position: relative;
+  background-color: #c4c4c4;
+  height: 0.06rem;
+  opacity: 0;
+}
+.predict-diabetic-retinopathy {
+  margin: 0;
+}
+.predict-diabetic-retinopathy-container {
+  position: relative;
+  line-height: 1.88rem;
+  color: rgba(255, 255, 255, 0.8);
+  display: inline-block;
+  width: 16.75rem;
+  height: 4.69rem;
+  flex-shrink: 0;
+}
+.take-test {
+  position: relative;
+  text-decoration: none; /* Remove underline */
+  .take-test:hover {
+    color: #64b5fdf8; /* Light blue color on hover */
+  }
+
+}
+
+.arrow-right-icon {
+  position: relative;
+  width: 1.44rem;
+  height: 1.31rem;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.take-test-parent {
+  border-radius: 50px;
+  background-color: #3b82f6;
+  box-shadow: 0 30px 60px rgba(59, 130, 246, 0.25);
+  width: 16.06rem;
+  display: flex;
+  flex-direction: row;
+  padding: 1.25rem 1.25rem 1.25rem 5.38rem;
+  box-sizing: border-box;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 0.5rem;
+  color: #f4f7ff;
+}
+.frame-group,
+.frame-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-group {
+  flex: 1;
+  border-radius: 40px;
+  background-color: #193766;
+  box-shadow: 0 30px 60px rgba(25, 55, 102, 0.25);
+  height: 22.75rem;
+  flex-direction: column;
+  padding: 3.13rem;
+  box-sizing: border-box;
+  gap: 0.06rem;
+}
+.frame-parent {
+  width: 73.75rem;
+  flex-direction: row;
+  gap: 1.88rem;
+  text-align: left;
+  font-size: 1rem;
+  color: #fff;
+  margin-left: 8%;
+}
+.services-offered-by-us-parent {
+  position: absolute;
+  top: 0;
+  left: 8.5rem;
+  height: 37.19rem;
+  display: flex;
+  flex-direction: column;
+  padding: 6.25rem 0;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 5.44rem;
+  text-align: center;
+  font-size: 3rem;
+  color: #193766;
+}
+.frame-child3 {
+  align-self: stretch;
+  flex: 1;
+}
+.frame-child4,
+.how-our-model {
+  align-self: stretch;
+  position: relative;
+}
+.how-our-model {
+  line-height: 2.75rem;
+  font-weight: 500;
+}
+.frame-child4 {
+  background-color: #c4c4c4;
+  height: 0.94rem;
+  opacity: 0;
+}
+.eyenetics-uses-several {
+  position: relative;
+  font-size: 2rem;
+  line-height: 3.5rem;
+  font-weight: 900;
+  font-family: Inter;
+  color: #697b98;
+  display: inline-block;
+  width: 40.88rem;
+  height: 29.81rem;
+  flex-shrink: 0;
+}
+.how-our-model-works-parent {
+  width: 40.94rem;
+  height: 36.25rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  margin-left: -60.06rem;
+}
+.frame-parent1 {
+  position: absolute;
+  top: 128.88rem;
+  left: 0.38rem;
+  width: 90rem;
+  height: 53.81rem;
+  display: flex;
+  flex-direction: row;
+  padding: 12.59rem 5.75rem 10.78rem 10.59rem;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+  font-size: 3rem;
+  color: #193766;
+}
+.company,
+.get-in-touch,
+.products {
+  position: absolute;
+  top: 200.5rem;
+  left: 46.69rem;
+  font-size: 0.88rem;
+  letter-spacing: 0.1em;
+  color: rgba(255, 255, 255, 0.6);
+}
+.company,
+.get-in-touch {
+  left: 58.94rem;
+}
+.get-in-touch {
+  left: 72.06rem;
+}
+.social-feeds {
+  position: absolute;
+  top: 202.88rem;
+  left: 46.69rem;
+  line-height: 1.75rem;
+}
+.about-us,
+.contact,
+.facebook,
+.react-ui-kit,
+.twitter {
+  position: absolute;
+  top: 202.88rem;
+  left: 58.94rem;
+  line-height: 1.75rem;
+}
+.contact,
+.facebook,
+.react-ui-kit,
+.twitter {
+  left: 72.06rem;
+}
+.contact,
+.facebook,
+.react-ui-kit {
+  top: 205.13rem;
+  left: 46.69rem;
+}
+.contact,
+.facebook {
+  left: 58.94rem;
+}
+.facebook {
+  left: 72.06rem;
+}
+.dribbble,
+.privacy-policy,
+.stisla-design {
+  position: absolute;
+  top: 207.38rem;
+  left: 46.69rem;
+  line-height: 1.75rem;
+}
+.dribbble,
+.privacy-policy {
+  left: 58.94rem;
+}
+.dribbble {
+  left: 72.06rem;
+}
+.help,
+.more-products,
+.terms-of-service {
+  position: absolute;
+  top: 209.63rem;
+  left: 46.69rem;
+  line-height: 1.75rem;
+}
+.help,
+.terms-of-service {
+  left: 58.94rem;
+}
+.help {
+  top: 211.88rem;
+}
+.untitled-design-1-removebg-p-icon {
+  position: relative;
+  width: 6.94rem;
+  height: 6.25rem;
+  object-fit: cover;
+}
+.untitled-design-1-removebg-p-wrapper {
+  width: 6.88rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.hope-you-have-container {
+  position: relative;
+  font-size: 1.5rem;
+  line-height: 1.75rem;
+  color: rgba(255, 255, 255, 0.8);
+  display: inline-block;
+  width: 35.94rem;
+}
+.frame-parent2 {
+  position: absolute;
+  top: 200.5rem;
+  left: 8.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 1.44rem;
+  font-size: 2rem;
+  color: #fff;
+}
+.wordpress-1,
+.wordpress-2-icon {
+  position: absolute;
+  border-radius: 24px;
+}
+.wordpress-1 {
+  top: 137.69rem;
+  left: 3.56rem;
+  background-color: rgba(104, 104, 104, 0.2);
+  width: 23rem;
+  height: 34.13rem;
+}
+.wordpress-2-icon {
+  top: 143.44rem;
+  left: 8.5rem;
+  width: 23.38rem;
+  height: 37.38rem;
+}
+.icon {
+  position: absolute;
+  top: 152.94rem;
+  left: 9.31rem;
+  width: 21.75rem;
+  height: 15.19rem;
+  object-fit: cover;
+}
+.designed-and-developed {
+  position: absolute;
+  top: 222.75rem;
+  left: 16.38rem;
+  font-size: 2.5rem;
+  line-height: 2.75rem;
+  font-weight: 500;
+  color: #fff;
+}
+.component-1-child,
+.component-1-item {
+  position: absolute;
+  height: 21.14%;
+  width: 15.96%;
+  top: 51.51%;
+  right: 79.33%;
+  bottom: 27.35%;
+  left: 4.72%;
+  border-radius: 50%;
+  background-color: #1b71ff;
+}
+.component-1-item {
+  height: 62.55%;
+  width: 47.22%;
+  top: 2.24%;
+  right: 0;
+  bottom: 35.2%;
+  left: 52.78%;
+  background-color: #a5a2cd;
+  filter: blur(200px);
+  opacity: 0.25;
+}
+.group-child,
+.group-item {
+  position: absolute;
+  height: 100%;
+  width: 46.15%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 53.85%;
+  border-radius: 4px;
+  background: linear-gradient(180deg, #b09fff, #8d79f6);
+}
+.group-item {
+  height: 71.7%;
+  top: 28.3%;
+  right: 53.85%;
+  left: 0;
+  opacity: 0.4;
+}
+.group-child1,
+.rectangle-parent {
+  position: absolute;
+  height: 32.12%;
+  width: 7.49%;
+  top: 59.39%;
+  right: 75.82%;
+  bottom: 8.48%;
+  left: 16.7%;
+}
+.group-child1 {
+  height: 71.9%;
+  width: 46.15%;
+  top: 28.1%;
+  right: 53.85%;
+  bottom: 0;
+  left: 0;
+  border-radius: 4px;
+  background: linear-gradient(180deg, #b09fff, #8d79f6);
+  opacity: 0.4;
+}
+.group-child3,
+.rectangle-group {
+  position: absolute;
+  height: 73.33%;
+  width: 7.49%;
+  top: 18.18%;
+  right: 34.55%;
+  bottom: 8.48%;
+  left: 57.97%;
+}
+.group-child3 {
+  height: 71.72%;
+  width: 46.15%;
+  top: 28.28%;
+  right: 53.85%;
+  bottom: 0;
+  left: 0;
+  border-radius: 4px;
+  background: linear-gradient(180deg, #b09fff, #8d79f6);
+  opacity: 0.4;
+}
+.rectangle-container {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.group-child5,
+.group-wrapper {
+  position: absolute;
+  height: 60%;
+  width: 7.49%;
+  top: 31.52%;
+  right: 48.18%;
+  bottom: 8.48%;
+  left: 44.34%;
+}
+.group-child5 {
+  height: 72.37%;
+  width: 46.15%;
+  top: 27.63%;
+  right: 53.85%;
+  bottom: 0;
+  left: 0;
+  border-radius: 4px;
+  background: linear-gradient(180deg, #b09fff, #8d79f6);
+  opacity: 0.4;
+}
+.group-child7,
+.group-div {
+  position: absolute;
+  height: 23.03%;
+  width: 7.49%;
+  top: 68.48%;
+  right: 90.79%;
+  bottom: 8.48%;
+  left: 1.73%;
+}
+.group-child7 {
+  height: 71.85%;
+  width: 46.15%;
+  top: 28.15%;
+  right: 53.85%;
+  bottom: 0;
+  left: 0;
+  border-radius: 4px;
+  background: linear-gradient(180deg, #b09fff, #8d79f6);
+  opacity: 0.4;
+}
+.group-child9,
+.rectangle-parent1 {
+  position: absolute;
+  height: 91.52%;
+  width: 7.49%;
+  top: 0;
+  right: 5.37%;
+  bottom: 8.48%;
+  left: 87.14%;
+}
+.group-child9 {
+  height: 71.77%;
+  width: 46.15%;
+  top: 28.23%;
+  right: 53.85%;
+  bottom: 0;
+  left: 0;
+  border-radius: 4px;
+  background: linear-gradient(180deg, #b09fff, #8d79f6);
+  opacity: 0.4;
+}
+.group-child11,
+.rectangle-parent2 {
+  position: absolute;
+  height: 89.09%;
+  width: 7.49%;
+  top: 3.94%;
+  right: 21.31%;
+  bottom: 6.97%;
+  left: 71.21%;
+}
+.group-child11 {
+  height: 71.98%;
+  width: 46.15%;
+  top: 28.02%;
+  right: 53.85%;
+  bottom: 0;
+  left: 0;
+  border-radius: 4px;
+  background: linear-gradient(180deg, #b09fff, #8d79f6);
+  opacity: 0.4;
+}
+.group-container {
+  position: absolute;
+  height: 62.73%;
+  width: 7.49%;
+  top: 28.79%;
+  right: 60.65%;
+  bottom: 8.48%;
+  left: 31.86%;
+}
+.div,
+.div1,
+.div2,
+.div3,
+.div4,
+.div5,
+.div6 {
+  position: absolute;
+  height: 100%;
+  width: 14.2%;
+  top: 0;
+  left: 0;
+  font-weight: 600;
+  display: inline-block;
+}
+.div1,
+.div2,
+.div3,
+.div4,
+.div5,
+.div6 {
+  left: 85.8%;
+}
+.div2,
+.div3,
+.div4,
+.div5,
+.div6 {
+  left: 71.02%;
+}
+.div3,
+.div4,
+.div5,
+.div6 {
+  left: 57.39%;
+}
+.div4,
+.div5,
+.div6 {
+  left: 43.19%;
+}
+.div5,
+.div6 {
+  left: 29.56%;
+}
+.div6 {
+  left: 14.78%;
+}
+.group-parent,
+.parent {
+  position: absolute;
+  height: 5.45%;
+  width: 100%;
+  top: 94.55%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.group-parent {
+  height: 20.62%;
+  width: 24.81%;
+  top: 62.99%;
+  right: 25.65%;
+  bottom: 16.39%;
+  left: 49.55%;
+}
+.group-child12,
+.group-child13,
+.group-child14,
+.group-child15 {
+  position: absolute;
+  height: 41.01%;
+  width: 46.39%;
+  top: 11.51%;
+  right: 53.61%;
+  bottom: 47.47%;
+  left: 0;
+  background-color: #f6f6f8;
+  box-shadow: -40px -40px 80px rgba(255, 255, 255, 0.8),
+    0 0 50px rgba(217, 217, 217, 0.2) inset,
+    40px 40px 50px rgba(225, 225, 230, 0.8);
+}
+.group-child13,
+.group-child14,
+.group-child15 {
+  top: 58.99%;
+  right: 39.54%;
+  bottom: 0;
+  left: 14.07%;
+}
+.group-child14,
+.group-child15 {
+  top: 11.51%;
+  right: 11.54%;
+  bottom: 47.47%;
+  left: 42.06%;
+}
+.group-child15 {
+  top: 58.99%;
+  right: 0;
+  bottom: 0;
+  left: 53.61%;
+}
+.our-target-audience {
+  position: relative;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  display: inline-block;
+  width: 35.75rem;
+}
+.our-target-audience-wrapper {
+  position: absolute;
+  height: 5.56%;
+  width: 36.33%;
+  top: 0;
+  right: 34.62%;
+  bottom: 94.44%;
+  left: 29.05%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  text-align: left;
+  font-size: 3.38rem;
+}
+.ellipse-div,
+.group-child16 {
+  position: absolute;
+  height: 99.39%;
+  width: 100%;
+  right: 0;
+  left: 0;
+  border-radius: 50%;
+}
+.ellipse-div {
+  top: 0;
+  bottom: 0.61%;
+  background-color: #151a20;
+  box-shadow: 0 0 0 12px rgba(0, 0, 0, 0.02);
+}
+.group-child16 {
+  top: 0.61%;
+  bottom: 0;
+  background-color: #ffc300;
+}
+.b {
+  position: absolute;
+  height: 25.62%;
+  width: 46.73%;
+  top: 36.71%;
+  left: 30.14%;
+  display: inline-block;
+}
+.ellipse-parent {
+  position: relative;
+  width: 13.22rem;
+  height: 12.94rem;
+}
+.ophthalmologist-need-us-container {
+  position: relative;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+}
+.group-parent1,
+.ophthalmologist-need-us-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.ophthalmologist-need-us-wrapper {
+  text-align: center;
+  font-size: 2.38rem;
+  color: #1b71ff;
+  font-family: Inter;
+}
+.group-parent1 {
+  position: absolute;
+  height: 36.98%;
+  width: 38.84%;
+  top: 15.53%;
+  right: 57.4%;
+  bottom: 47.48%;
+  left: 3.76%;
+  gap: 1.31rem;
+  text-align: left;
+  font-size: 3rem;
+  font-family: Roboto;
+}
+.rectangle-parent5,
+.rectangle-parent6 {
+  position: absolute;
+  height: 34.53%;
+  width: 8.06%;
+  top: 63.84%;
+  right: 75.83%;
+  bottom: 1.63%;
+  left: 16.12%;
+}
+.rectangle-parent6 {
+  height: 78.83%;
+  top: 19.54%;
+  right: 31.4%;
+  left: 60.54%;
+}
+.group-frame,
+.rectangle-parent8,
+.rectangle-parent9 {
+  position: absolute;
+  height: 64.5%;
+  width: 8.06%;
+  top: 33.88%;
+  right: 46.07%;
+  bottom: 1.63%;
+  left: 45.87%;
+}
+.rectangle-parent8,
+.rectangle-parent9 {
+  height: 24.76%;
+  top: 73.62%;
+  right: 91.94%;
+  left: 0;
+}
+.rectangle-parent9 {
+  height: 98.37%;
+  top: 0;
+  right: 0;
+  left: 91.94%;
+}
+.group-wrapper1,
+.rectangle-parent10 {
+  position: absolute;
+  height: 95.77%;
+  width: 8.06%;
+  top: 4.23%;
+  right: 17.15%;
+  bottom: 0;
+  left: 74.79%;
+}
+.group-wrapper1 {
+  height: 67.43%;
+  top: 30.94%;
+  right: 59.5%;
+  bottom: 1.63%;
+  left: 32.44%;
+}
+.group-parent3 {
+  position: relative;
+  width: 16.63rem;
+  height: 13.69rem;
+}
+.group-parent2,
+.visual-impairment-cases-in-ind-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.group-parent2 {
+  position: absolute;
+  height: 36.98%;
+  width: 38.84%;
+  top: 15.53%;
+  right: 15.36%;
+  bottom: 47.48%;
+  left: 45.81%;
+  gap: 2rem;
+  color: #1b71ff;
+  font-family: Inter;
+}
+.chart-1-child {
+  position: absolute;
+  height: 88%;
+  width: 88%;
+  top: 6%;
+  right: 6%;
+  bottom: 6%;
+  left: 6%;
+  border-radius: 50%;
+  background: linear-gradient(180deg, #7ad3ff, #4fbaf0);
+}
+.chart-1-item {
+  height: 80.89%;
+  width: 80.89%;
+  top: 9.56%;
+  right: 9.56%;
+  bottom: 9.56%;
+  left: 9.56%;
+  background: linear-gradient(180deg, #fe6c6c, #fe464b);
+}
+.chart-1-child1,
+.chart-1-inner,
+.chart-1-item {
+  position: absolute;
+  border-radius: 50%;
+}
+.chart-1-inner {
+  height: 96%;
+  width: 96%;
+  top: 2%;
+  right: 2%;
+  bottom: 2%;
+  left: 2%;
+  background: linear-gradient(180deg, #fd95d3, #ff5cbe);
+}
+.chart-1-child1 {
+  height: 88%;
+  width: 88%;
+  top: 6%;
+  right: 6%;
+  bottom: 6%;
+  left: 6%;
+  background: linear-gradient(180deg, #99ffa3, #68ee76);
+}
+.chart-1-child2 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: linear-gradient(180deg, #ffd572, #febd38);
+}
+.chart-1-child2,
+.chart-1-child3,
+.chart-1-child4 {
+  position: absolute;
+  border-radius: 50%;
+}
+.chart-1-child3 {
+  height: 60%;
+  width: 60%;
+  top: 20%;
+  right: 20%;
+  bottom: 20%;
+  left: 20%;
+  background-color: #fff;
+  box-shadow: 0 5px 25px rgba(0, 0, 0, 0.1);
+}
+.chart-1-child4 {
+  height: 53.33%;
+  width: 53.33%;
+  top: 23.33%;
+  right: 23.33%;
+  bottom: 23.33%;
+  left: 23.33%;
+  border: 2px solid #454459;
+  box-sizing: border-box;
+  opacity: 0.05;
+}
+.m {
+  position: absolute;
+  height: 12.94%;
+  width: 67.53%;
+  top: 43.51%;
+  left: 15.97%;
+  display: inline-block;
+}
+.chart-1 {
+  position: relative;
+  width: 18.64rem;
+  height: 17.81rem;
+}
+.market-worth-of {
+  position: relative;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  display: inline-block;
+  width: 27.94rem;
+}
+.chart-1-parent,
+.market-worth-of-opthalmic-indu-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  font-size: 2.38rem;
+  color: #1b71ff;
+  font-family: Raleway;
+}
+.chart-1-parent {
+  position: absolute;
+  height: 37.86%;
+  width: 38.76%;
+  top: 62.14%;
+  right: 43.39%;
+  bottom: 0;
+  left: 17.85%;
+  gap: 2.19rem;
+  font-size: 2.5rem;
+  color: #454459;
+  font-family: Inter;
+}
+.group-icon {
+  position: relative;
+  width: 14.8rem;
+  height: 17.41rem;
+}
+.group-group {
+  position: absolute;
+  height: 33.89%;
+  width: 38.76%;
+  top: 62.14%;
+  right: 3.84%;
+  bottom: 3.97%;
+  left: 57.4%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 2.19rem;
+  color: #1b71ff;
+}
+.rectangle-parent4 {
+  position: absolute;
+  height: 97.76%;
+  width: 82.5%;
+  top: 2.24%;
+  right: 17.5%;
+  bottom: 0;
+  left: 0;
+  font-size: 2.38rem;
+  color: #000;
+  font-family: Raleway;
+}
+.component-1 {
+  position: absolute;
+  top: 48.88rem;
+  left: 7.63rem;
+  width: 96.75rem;
+  height: 72.44rem;
+  text-align: center;
+  font-size: 0.94rem;
+  color: #454459;
+  font-family: Inter;
+}
+.desktop-1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  top: 1.06rem;
+  background-color: #fff;
+  width: 300.75rem;
+  height: 230.06rem;
+  overflow-x: auto; /* Enable horizontal scrolling */
+  overflow-y: hidden; /* Disable vertical scrolling */
+}
+
+.parent-container {
+  max-width: 2200px; /* Adjust as needed */
+  margin: 0 auto; /* Center the container horizontally */
+  background-color: #fff; /* Set container background color */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Add a subtle box shadow */
+}
+
+/* Add your specific styling for .desktop-1-parent and other elements here */
+.desktop-1-parent {
+  position: relative;
+  height: 200.06rem;
+  text-align: left;
+  font-size: 1rem;
+  color: rgba(255, 255, 255, 0.8);
+}
+/* Your existing styles */
+
+.footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 70px;
+}
+
+.footer p {
+  margin: 0;
+}
+
+.footer img {
+  width: 100px; /* Adjust the width as needed */
+  height: auto;
+  margin-top: 10px;
+}

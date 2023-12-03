@@ -1,0 +1,225 @@
+.services-offered {
+  margin: 0;
+}
+.services-offered-by-container {
+  position: absolute;
+  top: calc(50% - 621.5px);
+  left: calc(50% - 140px);
+  font-size: 90px;
+  font-weight: 600;
+  font-family: var(--font-segoe-ui);
+  color: var(--color-darkslategray);
+  display: inline-block;
+  width: 732px;
+  height: 273px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.services-child {
+  position: absolute;
+  top: calc(50% - 298.5px);
+  left: calc(50% - 206px);
+  border-radius: var(--br-21xl);
+  width: 432px;
+  height: 431px;
+}
+.services-inner,
+.services-item {
+  position: absolute;
+  background-color: var(--color-gray-200);
+  box-sizing: border-box;
+}
+.services-item {
+  top: 529px;
+  left: 646px;
+  border-radius: 50%;
+  border: 12px solid var(--color-dimgray-100);
+  width: 225px;
+  height: 230px;
+}
+.services-inner {
+  top: 409px;
+  left: 558px;
+  border-radius: var(--br-21xl);
+  border: 5px solid var(--color-gray-100);
+  width: 405px;
+  height: 78px;
+}
+.retinopathy-detection {
+  position: absolute;
+  top: 428px;
+  left: 580px;
+  font-weight: 500;
+  display: inline-block;
+  width: 358px;
+  height: 41px;
+}
+.rectangle-icon {
+  position: absolute;
+  top: calc(50% + 173.5px);
+  left: calc(50% + 7px);
+  border-radius: var(--br-21xl);
+  width: 468px;
+  height: 455px;
+}
+.ellipse-div,
+.rectangle-div {
+  position: absolute;
+  background-color: var(--color-gray-200);
+  box-sizing: border-box;
+}
+.ellipse-div {
+  top: 1010px;
+  left: 875px;
+  border-radius: 50%;
+  border: 12px solid var(--color-dimgray-100);
+  width: 231px;
+  height: 231px;
+}
+.rectangle-div {
+  top: 869px;
+  left: 819px;
+  border-radius: var(--br-21xl);
+  border: 5px solid var(--color-gray-100);
+  width: 352px;
+  height: 83px;
+}
+.cataract-detection {
+  position: absolute;
+  top: 889px;
+  left: 841px;
+  font-weight: 500;
+  display: inline-block;
+  width: 304px;
+  height: 44px;
+}
+.services-child1 {
+  position: absolute;
+  top: calc(50% - 298.5px);
+  left: calc(50% + 260px);
+  border-radius: var(--br-21xl);
+  width: 424px;
+  height: 431px;
+}
+.services-child2,
+.services-child3 {
+  position: absolute;
+  background-color: var(--color-gray-200);
+  box-sizing: border-box;
+}
+.services-child2 {
+  top: 529px;
+  left: 1107px;
+  border-radius: 50%;
+  border: 12px solid var(--color-dimgray-100);
+  width: 235px;
+  height: 230px;
+}
+.services-child3 {
+  top: 409px;
+  left: 1038px;
+  border-radius: var(--br-21xl);
+  border: 5px solid var(--color-gray-100);
+  width: 363px;
+  height: 78px;
+}
+.glaucoma-detection {
+  position: absolute;
+  top: 428px;
+  left: 1057px;
+  font-weight: 500;
+  display: inline-block;
+  width: 326px;
+  height: 41px;
+}
+.eye-1-icon,
+.eyeball-1-icon,
+.hide-1-icon {
+  position: absolute;
+  top: calc(50% - 97.5px);
+  left: calc(51% - 60px);
+  width: 126px;
+  height: 133px;
+  object-fit: cover;
+}
+.eye-1-icon,
+.hide-1-icon {
+  top: calc(50% + 386.5px);
+  left: calc(50% + 178px);
+  width: 125px;
+  height: 130px;
+}
+.eye-1-icon {
+  top: calc(50% - 95.5px);
+  left: calc(50% + 408px);
+  width: 133px;
+  height: 133px;
+}
+.group-child,
+.group-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: #c0bbff;
+  width: 493.02px;
+  height: 1314.47px;
+}
+.group-item {
+  background-color: #282828;
+  width: 480.41px;
+  height: 1291.85px;
+}
+.eyenetics,
+.our-image-classification-container {
+  position: absolute;
+  top: 95px;
+  left: 48px;
+  line-height: 30px;
+  display: inline-block;
+  width: 181px;
+  height: 90px;
+}
+.our-image-classification-container {
+  top: 0;
+  left: 0;
+  line-height: 70px;
+  font-weight: 600;
+  width: 432px;
+  height: 394px;
+}
+.our-image-classification-model-wrapper {
+  position: absolute;
+  top: 316px;
+  left: 31px;
+  width: 432px;
+  height: 394px;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 493.02px;
+  height: 1314.47px;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  font-family: var(--font-poppins);
+}
+.group-1903-1 {
+  position: absolute;
+  top: 807px;
+  left: 63px;
+  width: 332px;
+  height: 330px;
+  object-fit: cover;
+}
+.services {
+  position: relative;
+  background-color: var(--color-silver);
+  backdrop-filter: blur(10px);
+  width: 100%;
+  height: 1349px;
+  text-align: center;
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
